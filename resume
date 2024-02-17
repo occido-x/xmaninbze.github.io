@@ -1,0 +1,37 @@
+<html>
+<body>
+    <h1>Xavier LeBlanc</h1>
+    <p>Hi! My name is Xavier LeBlanc, I am an entry level web developer and cybersecurity analyst this site is to be a reference of my skills.</p>
+    <h4>Skills</h4>
+        <ul>
+            <li>HTML Programming</li>
+            <li>Cascading Style Sheets</li>
+            <li>Cybersecurity for Business course</li>
+            <li>Bash Scripting</li>
+            <li>Nmap Scanning</li>
+        </ul>
+    <h4>Currently learning</h4>
+        <ul>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>Lua</li>
+            <li>Java</li>
+            
+        </ul>
+
+    <h4>Work Experience</h4>
+        <ul>
+            <li>Head Machinist at Blind Specialist LLC</li>
+            <li>Shipping Lead at Howell Furniture</li>
+            <li>Supervisor at Magic Express Lube</li>
+            <li>Maintenance Crew at Nederland ISD</li>
+        </ul>
+    <h3>About Me</h3>
+    <p>Although I dont currently have any work experience in the technology field I have spent several years 
+        enveloping myself in the field as a hobbyist, I hope to be given an opportunity to share my passion for the field and dedication to my work
+    with you in the future. </p>
+
+
+
+</body>
+</html>
